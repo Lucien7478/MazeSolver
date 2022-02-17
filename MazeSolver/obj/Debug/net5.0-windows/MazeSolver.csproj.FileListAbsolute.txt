@@ -1,0 +1,52 @@
+C:\Users\Christian\Desktop\Verschiedenes\Nachhilfe\Lucien\Zweite Stunde(n)\Maze\MazeSolver\MazeSolver\bin\Debug\net5.0-windows\MazeSolver.exe
+C:\Users\Christian\Desktop\Verschiedenes\Nachhilfe\Lucien\Zweite Stunde(n)\Maze\MazeSolver\MazeSolver\bin\Debug\net5.0-windows\MazeSolver.deps.json
+C:\Users\Christian\Desktop\Verschiedenes\Nachhilfe\Lucien\Zweite Stunde(n)\Maze\MazeSolver\MazeSolver\bin\Debug\net5.0-windows\MazeSolver.runtimeconfig.json
+C:\Users\Christian\Desktop\Verschiedenes\Nachhilfe\Lucien\Zweite Stunde(n)\Maze\MazeSolver\MazeSolver\bin\Debug\net5.0-windows\MazeSolver.runtimeconfig.dev.json
+C:\Users\Christian\Desktop\Verschiedenes\Nachhilfe\Lucien\Zweite Stunde(n)\Maze\MazeSolver\MazeSolver\bin\Debug\net5.0-windows\MazeSolver.dll
+C:\Users\Christian\Desktop\Verschiedenes\Nachhilfe\Lucien\Zweite Stunde(n)\Maze\MazeSolver\MazeSolver\bin\Debug\net5.0-windows\ref\MazeSolver.dll
+C:\Users\Christian\Desktop\Verschiedenes\Nachhilfe\Lucien\Zweite Stunde(n)\Maze\MazeSolver\MazeSolver\bin\Debug\net5.0-windows\MazeSolver.pdb
+C:\Users\Christian\Desktop\Verschiedenes\Nachhilfe\Lucien\Zweite Stunde(n)\Maze\MazeSolver\MazeSolver\obj\Debug\net5.0-windows\MazeSolver.csprojAssemblyReference.cache
+C:\Users\Christian\Desktop\Verschiedenes\Nachhilfe\Lucien\Zweite Stunde(n)\Maze\MazeSolver\MazeSolver\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Christian\Desktop\Verschiedenes\Nachhilfe\Lucien\Zweite Stunde(n)\Maze\MazeSolver\MazeSolver\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Christian\Desktop\Verschiedenes\Nachhilfe\Lucien\Zweite Stunde(n)\Maze\MazeSolver\MazeSolver\obj\Debug\net5.0-windows\MazeSolver_MarkupCompile.cache
+C:\Users\Christian\Desktop\Verschiedenes\Nachhilfe\Lucien\Zweite Stunde(n)\Maze\MazeSolver\MazeSolver\obj\Debug\net5.0-windows\MazeSolver_MarkupCompile.lref
+C:\Users\Christian\Desktop\Verschiedenes\Nachhilfe\Lucien\Zweite Stunde(n)\Maze\MazeSolver\MazeSolver\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Christian\Desktop\Verschiedenes\Nachhilfe\Lucien\Zweite Stunde(n)\Maze\MazeSolver\MazeSolver\obj\Debug\net5.0-windows\MazeSolver.g.resources
+C:\Users\Christian\Desktop\Verschiedenes\Nachhilfe\Lucien\Zweite Stunde(n)\Maze\MazeSolver\MazeSolver\obj\Debug\net5.0-windows\MazeSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian\Desktop\Verschiedenes\Nachhilfe\Lucien\Zweite Stunde(n)\Maze\MazeSolver\MazeSolver\obj\Debug\net5.0-windows\MazeSolver.AssemblyInfoInputs.cache
+C:\Users\Christian\Desktop\Verschiedenes\Nachhilfe\Lucien\Zweite Stunde(n)\Maze\MazeSolver\MazeSolver\obj\Debug\net5.0-windows\MazeSolver.AssemblyInfo.cs
+C:\Users\Christian\Desktop\Verschiedenes\Nachhilfe\Lucien\Zweite Stunde(n)\Maze\MazeSolver\MazeSolver\obj\Debug\net5.0-windows\MazeSolver.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\Verschiedenes\Nachhilfe\Lucien\Zweite Stunde(n)\Maze\MazeSolver\MazeSolver\obj\Debug\net5.0-windows\MazeSolver.dll
+C:\Users\Christian\Desktop\Verschiedenes\Nachhilfe\Lucien\Zweite Stunde(n)\Maze\MazeSolver\MazeSolver\obj\Debug\net5.0-windows\ref\MazeSolver.dll
+C:\Users\Christian\Desktop\Verschiedenes\Nachhilfe\Lucien\Zweite Stunde(n)\Maze\MazeSolver\MazeSolver\obj\Debug\net5.0-windows\MazeSolver.pdb
+C:\Users\Christian\Desktop\Verschiedenes\Nachhilfe\Lucien\Zweite Stunde(n)\Maze\MazeSolver\MazeSolver\obj\Debug\net5.0-windows\MazeSolver.genruntimeconfig.cache
+C:\Users\Christian\Desktop\Verschiedenes\Nachhilfe\Lucien\Zweite Stunde(n)\Maze\MazeSolver\MazeSolver\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Christian\Desktop\Verschiedenes\Nachhilfe\Lucien\Zweite Stunde(n)\Maze\MazeSolver\MazeSolver\obj\Debug\net5.0-windows\MazeSolver.csproj.CopyComplete
+C:\Users\Christian\Desktop\Verschiedenes\Nachhilfe\Lucien\Zweite Stunde(n)\Maze\MazeSolver\MazeSolver\obj\Debug\net5.0-windows\MazeSolver.csproj.Fody.CopyLocal.cache
+C:\Users\Christian\Desktop\Verschiedenes\Nachhilfe\Lucien\Zweite Stunde(n)\Maze\MazeSolver\MazeSolver\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\lucie\Downloads\MazeSolver\MazeSolver\MazeSolver\bin\Debug\net5.0-windows\MazeSolver.exe
+C:\Users\lucie\Downloads\MazeSolver\MazeSolver\MazeSolver\bin\Debug\net5.0-windows\MazeSolver.deps.json
+C:\Users\lucie\Downloads\MazeSolver\MazeSolver\MazeSolver\bin\Debug\net5.0-windows\MazeSolver.runtimeconfig.json
+C:\Users\lucie\Downloads\MazeSolver\MazeSolver\MazeSolver\bin\Debug\net5.0-windows\MazeSolver.runtimeconfig.dev.json
+C:\Users\lucie\Downloads\MazeSolver\MazeSolver\MazeSolver\bin\Debug\net5.0-windows\MazeSolver.dll
+C:\Users\lucie\Downloads\MazeSolver\MazeSolver\MazeSolver\bin\Debug\net5.0-windows\ref\MazeSolver.dll
+C:\Users\lucie\Downloads\MazeSolver\MazeSolver\MazeSolver\bin\Debug\net5.0-windows\MazeSolver.pdb
+C:\Users\lucie\Downloads\MazeSolver\MazeSolver\MazeSolver\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\lucie\Downloads\MazeSolver\MazeSolver\MazeSolver\obj\Debug\net5.0-windows\MazeSolver.csproj.AssemblyReference.cache
+C:\Users\lucie\Downloads\MazeSolver\MazeSolver\MazeSolver\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\lucie\Downloads\MazeSolver\MazeSolver\MazeSolver\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\lucie\Downloads\MazeSolver\MazeSolver\MazeSolver\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lucie\Downloads\MazeSolver\MazeSolver\MazeSolver\obj\Debug\net5.0-windows\MazeSolver_MarkupCompile.cache
+C:\Users\lucie\Downloads\MazeSolver\MazeSolver\MazeSolver\obj\Debug\net5.0-windows\MazeSolver_MarkupCompile.lref
+C:\Users\lucie\Downloads\MazeSolver\MazeSolver\MazeSolver\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\lucie\Downloads\MazeSolver\MazeSolver\MazeSolver\obj\Debug\net5.0-windows\MazeSolver.g.resources
+C:\Users\lucie\Downloads\MazeSolver\MazeSolver\MazeSolver\obj\Debug\net5.0-windows\MazeSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucie\Downloads\MazeSolver\MazeSolver\MazeSolver\obj\Debug\net5.0-windows\MazeSolver.AssemblyInfoInputs.cache
+C:\Users\lucie\Downloads\MazeSolver\MazeSolver\MazeSolver\obj\Debug\net5.0-windows\MazeSolver.AssemblyInfo.cs
+C:\Users\lucie\Downloads\MazeSolver\MazeSolver\MazeSolver\obj\Debug\net5.0-windows\MazeSolver.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Downloads\MazeSolver\MazeSolver\MazeSolver\obj\Debug\net5.0-windows\MazeSolver.csproj.Fody.CopyLocal.cache
+C:\Users\lucie\Downloads\MazeSolver\MazeSolver\MazeSolver\obj\Debug\net5.0-windows\MazeSolver.csproj.CopyComplete
+C:\Users\lucie\Downloads\MazeSolver\MazeSolver\MazeSolver\obj\Debug\net5.0-windows\MazeSolver.dll
+C:\Users\lucie\Downloads\MazeSolver\MazeSolver\MazeSolver\obj\Debug\net5.0-windows\ref\MazeSolver.dll
+C:\Users\lucie\Downloads\MazeSolver\MazeSolver\MazeSolver\obj\Debug\net5.0-windows\MazeSolver.pdb
+C:\Users\lucie\Downloads\MazeSolver\MazeSolver\MazeSolver\obj\Debug\net5.0-windows\MazeSolver.genruntimeconfig.cache
